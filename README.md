@@ -38,7 +38,7 @@ git clone https://github.com/ajaylove1shi/retrieve-and-display-coordinates.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/ajaylove1shi).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/).
 
 ### License
 
