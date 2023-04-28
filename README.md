@@ -12,7 +12,7 @@
 
 ### Demo Screeshots
 
-![Dashboard Desktop Demo](./assets/retrieve-and-display-coordinates.png "Desktop Demo")
+![Dashboard Desktop Demo](./readme-images/project-logo.png "Desktop Demo")
 
 ### Prerequisites
 
